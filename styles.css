@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+#cont {
+    box-shadow: 5px 3px black;
+    border-radius: 32px;
+    cursor: pointer;
+}
+
+#horario {
+   outline: none;
+}
+
+body {
+    background: beige;
+}
